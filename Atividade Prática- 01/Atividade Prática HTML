@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">    
+    <body>
+        <!--Apresentação Pessoal-->
+        <h1>Trabalho em HTML</h1>
+        <img src="./1585826694081.jpg">
+        <h3>Nome</h3>
+        <p>Rafael Gonçalves Vargas;</p>
+        <h3>Idade</h3>        
+        <p>27 anos;</p>
+        <h3>E-mail</h3>
+        <p>rafaelgoncalvesvargas@gmail.com;</p>
+        <h3>Cidade e Estado</h3>
+        <p>Alegrete - Rio Grande do Sul;</p>
+        <h3>Nome do Programa de Formação</h3>
+        <p>Programa Starter Full Stack Web Developer;</p>
+        <h3>O que te define</h3>
+        <p>Sou uma pessoa que consegue trabalhar em equipe, sou proativo, sou colaborativo, faço planejamentos, sou organizado e tenho pensamento criativo;</p>
+        <h3>Conhecimento em Programação</h3>
+        <p>Não possuo nenhum conhecimento em programação;</p>
+        <h3>Onde quer Chegar</h3>
+        <p>Com o programa Starter Full Stack Web Developer, pretendo migrar de carreira me tornando um grande programador. E só com a ajuda da Growdev, dos mentores e dos meus colegas de formação chegarei ao meu objetivo.</p>
+    </body>    
+</html>  
